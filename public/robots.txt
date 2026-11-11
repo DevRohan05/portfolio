@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portfolio-fawn-one-yamv4hxgmf.vercel.app/sitemap.xml
